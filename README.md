@@ -1,32 +1,38 @@
-# Olá, sou Wesley Chedlovski 📊🚀
+# Wesley Chedlovski 📊🚀
 
-**Data Engineer | Especialista em Arquitetura Analítica & FinOps | AWS Cloud**
+**Senior Data & Analytics Engineer | Cloud, Big Data & AI Specialist**
 
-Sou um Engenheiro de Dados com foco absoluto na **proteção de margem financeira** corporativa através de pipelines robustos e governança de dados. Minha premissa de trabalho é simples: não entrego apenas código funcional – **entrego infraestrutura de dados que justifica o próprio custo.**
+Engenheiro de Dados com foco em **geração de receita, escalabilidade e proteção de margem financeira** através de arquiteturas analíticas complexas e Governança de Dados. Minha premissa corporativa é desenhar e liderar infraestruturas de dados de alta performance que não apenas suportam a tomada de decisão do C-Level, mas que justificam o seu próprio custo operacional (*FinOps*).
 
-### 🎯 Impacto e Escalabilidade:
-* **Engenharia voltada a FinOps:** Histórico comprovado na arquitetura de pipelines ETL *end-to-end* em Python e SQL que auditam 100% de faturas operacionais, resultando em **mais de R$ 5 milhões em economia e recuperação de caixa**.
-* **Performance & Computação Vetorizada:** Desenvolvimento de motores de dados utilizando bibliotecas nativas e vetorização (Pandas/NumPy) para processamento em larga escala e eliminação de gargalos sistêmicos.
-* **Governança & Business Intelligence:** Domínio na construção de camadas semânticas para o C-Level. Modelagem dimensional estrita otimizada para o motor VertiPaq (Power BI), integrando SLAs dinâmicos e painéis de auditoria.
-* **Maturidade Técnica & Liderança:** Experiência em liderança técnica (50+ colaboradores distribuídos), garantindo a padronização de arquiteturas de dados e a entrega de fluxos analíticos confiáveis.
-* **Cloud Architecture:** Especialização contínua na orquestração e segurança de Data Lakes corporativos na nuvem (**AWS S3, Glue, Athena**), focando em alta disponibilidade e otimização de custos de *query* (Apache Parquet).
+### 🎯 Impacto, Escalabilidade e Liderança:
+* **Engenharia de Dados & FinOps:** Arquitetura consolidada de pipelines ETL/ELT em Python e SQL para auditoria automatizada de faturas e grandes volumes de contratos. Histórico comprovado de identificação de gaps operacionais, gerando **mais de R$ 12.5 milhões** em recuperação de caixa e *savings* diretos.
+* **Modern Data Stack & Big Data:** Especialista na orquestração de dados em nuvem (**AWS e Azure**), com amplo domínio na estruturação de arquiteturas **Lakehouse** e processamento distribuído de grandes volumes de dados utilizando **Databricks, PySpark e Spark SQL**.
+* **AI & Automação Avançada:** Pós-graduado em Cloud & AI DevOps. Domínio prático na integração de **IA Generativa** e agentes autônomos ao ecossistema de engenharia, otimização de queries, consumo de APIs (LLMs) e engenharia reversa de arquiteturas de dados.
+* **Analytics Engineering & Governança:** Construção robusta de camadas semânticas, modelagem dimensional avançada (Star Schema) e governança estrita de acessos (RLS, Data Masking) para dados corporativos e sensíveis. Especialista na entrega de painéis executivos e *Data Storytelling* via **Power BI** (VertiPaq/DAX) e **Tableau**.
+* **Maturidade Executiva & Liderança Técnica:** Experiência consolidada na liderança de operações estruturadas (gestão indireta de 50+ colaboradores). Condução de times de alta performance, aplicação de *pair programming*, disseminação de cultura *data-driven* e garantia de conformidade técnica corporativa.
 
 ### 🛠️ Arsenal Tecnológico:
 
-**Engenharia & Orquestração:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+**Data Engineering, Big Data & AI:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Generative AI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-**Cloud & Infraestrutura:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Cloud Architecture & Lakehouse:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**Data Visualization & Analytics:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Data Visualization & Analytics:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-005C84?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 📬 Vamos conversar sobre arquitetura e dados?
+### 📬 Vamos escalar a arquitetura de dados da sua operação?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleychedlovski/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesley.gustavo.che@gmail.com)
 
 ---
-*💡 "Transformando complexidade de dados em ativos estratégicos mensuráveis."*
+*💡 "Transformando complexidade de dados em ativos estratégicos de alto valor e impacto mensurável."*
